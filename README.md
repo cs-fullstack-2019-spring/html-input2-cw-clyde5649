@@ -1,3 +1,7 @@
+### 0 POINTS
+### KEY: No comments and several requested fields are missing
+
+
 # HTML Input 2 CW
 
 Duplicate the form depicted in the included image. Note the following:
